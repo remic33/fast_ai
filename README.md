@@ -11,6 +11,7 @@ ATM : 73% sucess with no overfitting.
   - Get more images
   - Use more quality on images 
   - Tune more 
+  
 Next goal : 80%+ in 4 epochs
 
 
